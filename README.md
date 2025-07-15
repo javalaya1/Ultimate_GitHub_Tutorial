@@ -240,10 +240,19 @@ so open other's public git repository, click on fork available in their central 
 click on green color "Create fork" button to confirm
 
 - Useful for contributing to open-source projects.
+
 ---
 
-Collaboration:
-
-
+**Collaboration:**
+I want to give permission to other to work on my repository. 
+Go to settings.
+click on Collaborators link available under Access Section, at the left hand side as first link.
+It will ask you to enter the password, to confirm the request.
+so click on Confirm button after entering the password.
+It will show if there are any collaborators are added under "Direct Access" template
+To add new Collaborator, click on "Add people" button available under "Manage Collaborators" section.
+enter the email id that you want to give access.
+click on button "Add followed by email that is entered".
+The email entered, will get an email to become a collaborator. 
 
 ---
