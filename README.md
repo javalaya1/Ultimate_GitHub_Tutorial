@@ -136,6 +136,7 @@ When multiple teams work on the same repo, use branches to avoid delivery issues
 4. Create a file and push it to `develop` branch.
 5. Create a Pull Request and merge `develop` into `main`.
 
+---
 
 # Git Interview Concepts
 
@@ -168,7 +169,7 @@ Merging changes from the `develop` branch to the `main` branch.
   
   ```bash
   git stash apply
-  ```
+ ```
 
 ---
 
@@ -234,7 +235,15 @@ git merge
 ## ✅ What is Git Fork?
 
 **Git Fork** is used to copy someone else's GitHub repository into your own GitHub account.
+so open other's public git repository, click on fork available in their central repository, it will divert the project to our account as you are the owner, you can change the name or no need to edit that name field.
+
+click on green color "Create fork" button to confirm
 
 - Useful for contributing to open-source projects.
+---
+
+Collaboration:
+
+
 
 ---
